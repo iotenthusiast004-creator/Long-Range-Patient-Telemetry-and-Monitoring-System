@@ -151,7 +151,3 @@ The receiver unit acts as a standalone wireless gateway, generating its own Wi-F
 | `TEMP` | Requests instantaneous temperature | `TEMP:xx.x` |
 | `LIVE` | Starts 2-second recurring stream | `LIVE:BPM=xx.x,SPO2=yy.y,TEMP=zz.z` |
 | `STOP` | Ends active live stream | `STOPPED` |
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
